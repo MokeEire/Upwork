@@ -1,4 +1,3 @@
-## Author: Mark Barrett - markkbarrett@gmail.com
 ## Purpose: Convert .dat files to STATA files
 ## Data: Youth Risk Behavior Survey (YRBS) data from CDC https://www.cdc.gov/healthyyouth/data/yrbs/data.htm
 ##       Files are available in ASCII format.
